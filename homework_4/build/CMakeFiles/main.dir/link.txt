@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main libhomework_4.a 
